@@ -1,0 +1,11 @@
+{
+  "name": "replace-with-alphabet-position",
+  "version": "1.0.0",
+  "description": "The assignment was to create a program that replace every letter in sentence to it’s alphabet position.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paweł Podolak",
+  "license": "ISC"
+}
